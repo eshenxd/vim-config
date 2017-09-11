@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/home/hzshenxudong/workspace/warrage_boss_1Vn/saved_networks_mlp'
+let g:netrw_dirhist_2='/home/hzshenxudong/backup/tensorflow-bak'
